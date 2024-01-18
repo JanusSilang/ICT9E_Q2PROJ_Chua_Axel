@@ -1,0 +1,51 @@
+
+    body
+
+    {
+    	background-image: url(sea.jpg);
+    	background-size: 1700px;
+    }
+
+    h1
+
+    {
+    	font-family: sans-serif;
+    	text-decoration: underline; color: white;
+
+    }
+
+    div
+{
+	text-align: center;
+	position: relative;
+  right: -505px;
+  top: -10px;
+
+}
+
+table {
+	margin-left: auto;
+	margin-right: auto;
+	border-color: darkblue;
+	border-width: 5000;
+}
+
+#PH
+{ background-color:skyblue;
+        color:whitesmoke; 
+        padding: 20px;
+        width:30%;
+        font-family: sans-serif;
+        font-variant:normal; 
+        font-weight: bolder;
+        font-size: medium;
+        display: inline-block;
+        
+     }
+
+     li
+     {
+     	font-family: sans-serif;
+     	color: white;
+
+     }
